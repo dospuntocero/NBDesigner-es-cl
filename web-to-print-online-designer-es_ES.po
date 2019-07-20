@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-18 15:55+0000\n"
-"PO-Revision-Date: 2019-07-20 15:22+0000\n"
+"PO-Revision-Date: 2019-07-20 16:11+0000\n"
 "Last-Translator: francisco arenas <fa@dospuntocero.cl>\n"
 "Language-Team: Español\n"
 "Language: es_ES\n"
@@ -2362,7 +2362,7 @@ msgstr "Haga clic para agregar texto"
 
 #: views/modern/sidebars/tab-typography.php:6
 msgid "Add heading"
-msgstr "Añadir rúbrica"
+msgstr "Añadir cabecera"
 
 #: views/modern/sidebars/tab-typography.php:7
 msgid "Subheading"
@@ -6998,7 +6998,7 @@ msgstr "Enviar una copia oculta para el usuario"
 #: includes/quote/emails/class.send-email-request-quote.php:142
 #: includes/quote/emails/class.send-quote.php:152
 msgid "Email Heading"
-msgstr "Email Rúbrica"
+msgstr "Cabecera del correo"
 
 #: includes/quote/emails/class.quote-status.php:137
 #: includes/quote/emails/class.send-email-request-quote.php:144
@@ -7714,7 +7714,7 @@ msgstr "Aceptación"
 #: includes/class.request-quote.php:269 includes/quote/functions.php:101
 #: views/modern/sidebars/tab-typography.php:6
 msgid "Heading"
-msgstr "Rúbrica"
+msgstr "Cabecera"
 
 #: includes/class.request-quote.php:276
 msgid "Get Quote"
